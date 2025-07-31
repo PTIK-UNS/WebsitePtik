@@ -1,0 +1,11 @@
+.tablepress a:hover {
+	color: #00FF00;
+}
+
+.tablepress a:visited {
+	color: #0000FF;
+}
+
+.tablepress a:link {
+	color: #0000FF;
+}

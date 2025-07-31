@@ -1,0 +1,50 @@
+[2015-04-21 06:05:05] 14769 files scanned.
+[2015-04-21 06:05:05] Clear out old temporary files
+[2015-04-21 06:05:05] Send request to generate temporary file stacks
+[2015-04-21 06:05:07] Trying to generate a stack of 500 files
+[2015-04-21 06:05:11] Temporary stack /tmp/BUPnad9Gg successfully generated
+[2015-04-21 06:05:11] Trying to generate a stack of 500 files
+[2015-04-21 06:05:16] Temporary stack /tmp/BUPJ0mvzs successfully generated
+[2015-04-21 06:05:16] Trying to generate a stack of 500 files
+[2015-04-21 06:05:20] Temporary stack /tmp/BUPGN8tqR successfully generated
+[2015-04-21 06:05:21] Trying to generate a stack of 500 files
+[2015-04-21 06:05:26] Temporary stack /tmp/BUP8Zq6XQ successfully generated
+[2015-04-21 06:05:26] Trying to generate a stack of 500 files
+[2015-04-21 06:05:31] Temporary stack /tmp/BUPMnjrZ5 successfully generated
+[2015-04-21 06:05:32] Trying to generate a stack of 500 files
+[2015-04-21 06:05:36] Temporary stack /tmp/BUP8BO3u9 successfully generated
+[2015-04-21 06:05:36] Trying to generate a stack of 500 files
+[2015-04-21 06:05:44] Temporary stack /tmp/BUPiZCQUT successfully generated
+[2015-04-21 06:05:45] Trying to generate a stack of 500 files
+[2015-04-21 06:05:49] Temporary stack /tmp/BUPuWFonU successfully generated
+[2015-04-21 06:05:49] Trying to generate a stack of 500 files
+[2015-04-21 06:05:54] Temporary stack /tmp/BUPeSvIn7 successfully generated
+[2015-04-21 06:05:54] Trying to generate a stack of 500 files
+[2015-04-21 06:05:58] Temporary stack /tmp/BUPMtOqhQ successfully generated
+[2015-04-21 06:05:58] Trying to generate a stack of 500 files
+[2015-04-21 06:06:02] Temporary stack /tmp/BUPGEe8i2 successfully generated
+[2015-04-21 06:06:03] Trying to generate a stack of 500 files
+[2015-04-21 06:06:07] Temporary stack /tmp/BUPQOgZoC successfully generated
+[2015-04-21 06:06:07] Trying to generate a stack of 500 files
+[2015-04-21 06:06:12] Temporary stack /tmp/BUP0S0yLa successfully generated
+[2015-04-21 06:06:12] Trying to generate a stack of 500 files
+[2015-04-21 06:06:16] Temporary stack /tmp/BUPCEoAWz successfully generated
+[2015-04-21 06:06:17] Trying to generate a stack of 500 files
+[2015-04-21 06:06:22] Temporary stack /tmp/BUPm9RK4n successfully generated
+[2015-04-21 06:06:22] Trying to generate a stack of 500 files
+[2015-04-21 06:06:26] Temporary stack /tmp/BUPM0PGQn successfully generated
+[2015-04-21 06:06:26] Trying to generate a stack of 500 files
+[2015-04-21 06:06:30] Temporary stack /tmp/BUPA1JElz successfully generated
+[2015-04-21 06:06:30] Trying to generate a stack of 500 files
+[2015-04-21 06:06:34] Temporary stack /tmp/BUPcdN9R8 successfully generated
+[2015-04-21 06:06:34] Trying to generate a stack of 500 files
+[2015-04-21 06:06:39] Temporary stack /tmp/BUPqeJ6l7 successfully generated
+[2015-04-21 06:06:40] Trying to generate a stack of 269 files
+[2015-04-21 06:06:42] Temporary stack /tmp/BUPiTpZdR successfully generated
+[2015-04-21 06:06:42] Trying to generate a stack of 500 files
+[2015-04-21 06:06:47] Temporary stack /tmp/BUPIhuV1s successfully generated
+[2015-04-21 06:06:47] Trying to generate a stack of 500 files
+[2015-04-21 06:06:52] Temporary stack /tmp/BUPgw3OT0 successfully generated
+[2015-04-21 06:06:55] Create a backup of the file system: /home/prodi/ptik/wp-content/upready/backup_2015_04_21-06_06_55_id1.zip
+[2015-04-21 06:07:01] Create a backup of the database: /home/prodi/ptik/wp-content/upready/backup_2015_04_21-06_06_55_id1.sql
+[2015-04-21 06:07:02] Backup complete
